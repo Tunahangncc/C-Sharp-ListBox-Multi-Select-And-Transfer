@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\bin\Debug\GP_FinalUygulamasi3.exe.config
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\bin\Debug\GP_FinalUygulamasi3.exe
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\bin\Debug\GP_FinalUygulamasi3.pdb
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.Katilimci.resources
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.Form1.resources
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.Properties.Resources.resources
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.exe
+C:\Users\pc\Desktop\GP_FinalUygulamasi3\obj\Debug\GP_FinalUygulamasi3.pdb
